@@ -1,27 +1,87 @@
-<h1 align="center">Hi there! I'm Giovanna Ribas dos Reis</h1>
-
-<p align="center"><b>Software Engineering Student &nbsp;&middot;&nbsp; Software Development Intern</b></p>
+<h1 align="center">Giovanna Ribas</h1>
 
 <p align="center">
-  Software Engineering undergraduate at PUCPR, working across software, data and design.<br>
-  I build ETL pipelines and data-cleaning routines, replace manual and error-prone<br>
-  processes with automation, and develop web and interactive applications &mdash;<br>
-  supported by a background in visual design and digital identity.
+  <a href="https://github.com/ribasgiovanna">GitHub</a> &nbsp;&middot;&nbsp;
+  <a href="https://www.linkedin.com/in/giovannaribasdosreis/">LinkedIn</a> &nbsp;&middot;&nbsp;
+  <a href="https://www.behance.net/ribestudio">Creative Collection</a> &nbsp;&middot;&nbsp;
+  <a href="#coffee--code">Coffee &amp; Code</a> &nbsp;&middot;&nbsp;
+  <a href="#contact">Contact</a>
+</p>
+<!-- CV: add a public link (Google Drive / PDF) when ready. -->
+
+<p align="center">
+  Personal hub and central portfolio &mdash; where software engineering meets
+  design, creativity, people and social impact.
 </p>
 
 ---
 
-## Focus Areas
+## About
 
-- **Data & ETL** - Cleaning, standardization and consolidation of datasets; extraction and transformation pipelines with Python and pandas
-- **Automation** - Turning repetitive manual work into reliable scripts and RPA
-- **Web Development** - Django applications with authentication, access levels and REST APIs
-- **Interactive Applications** - Game logic and state-driven programs
-- **Design** - Visual identity, illustration and interface design supporting product work
+Software Engineering student and software development intern. I work across software,
+data and design: building production features and ETL pipelines, replacing manual and
+error-prone processes with automation, and developing web and interactive applications,
+supported by a background in visual design and digital identity.
 
 ---
 
-## Technical Stack
+## Education
+
+Software Engineering student &mdash; PUCPR.
+
+---
+
+## Experience
+
+**Software Development Intern &mdash; currently**
+
+Working on the development and maintenance of production software across frontend,
+backend, APIs and databases: implementing features, investigating bugs, and integrating
+different layers of existing systems.
+
+Due to the proprietary nature of the systems I work on, source code and internal
+materials are not publicly available.
+
+---
+
+## Projects
+
+### [DATASUS Blood Bank](https://github.com/ribasgiovanna/datasus) &nbsp;·&nbsp; automation and data *(team)*
+
+Public data &rarr; automation &rarr; processing &rarr; visualization.
+
+Automated extraction (RPA / Selenium) of hemotherapy data from the DATASUS TabNet, with
+parallel execution, checkpointing, data treatment with pandas, and a Streamlit
+dashboard. Project idea and work on the extraction and treatment modules.
+
+`Python` `Selenium` `pandas` `RPA` `Streamlit`
+
+### [Corrida para a Faculdade](https://github.com/ribasgiovanna/jogo-atrasado-para-a-faculdade) &nbsp;·&nbsp; individual game in Python / Pygame
+
+State-driven programming, jump physics, collisions, progressive difficulty, HUD and
+input handling. The game code is my own work; the visual assets are AI-generated and
+presented transparently.
+
+`Python` `Pygame` `game development`
+
+### [Pibble Express](https://github.com/ribasgiovanna/pibble_express) &nbsp;·&nbsp; Django web application *(team)*
+
+Delivery-management system with authentication, access levels, CRUD, a REST API,
+models and an integrated frontend. My contribution: the Employees module and its
+integration with Deliveries, CPF/CNPJ registration, the administrative dashboard, and
+form standardization / interface adjustments.
+
+`Django` `Django REST Framework` `authentication` `CRUD`
+
+### Coffee &amp; Code
+
+*University tech club.* A club I created and lead, built to give students a more accessible,
+collaborative and hands-on environment to learn, build projects and exchange knowledge.
+It connects technology, education, community, leadership, design and initiative.
+
+---
+
+## Technical Skills
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" title="Python"/>&nbsp;&nbsp;
@@ -41,48 +101,53 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="38" alt="Blender" title="Blender"/>
 </p>
 
-**Languages**
-- Python | JavaScript / TypeScript | SQL
-
-**Data**
-- pandas | ETL | SQL Server | PostgreSQL | MongoDB
-
-**Web**
-- Django | Django REST Framework | HTML | CSS
-
-**Tools & Infrastructure**
-- Git & GitHub | Docker | Linux | Windows Server
-
-**Design**
-- Figma | Procreate | Affinity | Blender
+- **Languages:** Python, JavaScript / TypeScript, SQL
+- **Web:** Django, Django REST Framework, REST APIs, HTML, CSS
+- **Data & automation:** pandas, ETL, Selenium, RPA, Streamlit
+- **Databases:** SQL Server, PostgreSQL, MongoDB
+- **Tools & infrastructure:** Git &amp; GitHub, Docker, Linux, Windows Server
+- **Concepts:** frontend, backend, CRUD, authentication, access levels, bug investigation
 
 ---
 
-## Featured Projects
+## Creative Work
 
-- **[Pibble Express](https://github.com/ribasgiovanna/pibble_express)** (team project) - Django delivery-management system with authentication, ADM/FUNC access levels, CRUD and a REST API. My contribution: the Employees module and its integration with Deliveries, CPF/CNPJ registration and the administrative dashboard.
-- **[DATASUS Blood Bank](https://github.com/ribasgiovanna/datasus)** (team project) - Automated extraction (RPA / Selenium) of hemotherapy data from the DATASUS TabNet, with parallel execution, checkpointing and data treatment. Project idea and work on the extraction and treatment modules.
-- **[Corrida para a Faculdade](https://github.com/ribasgiovanna/jogo-atrasado-para-a-faculdade)** - 2D endless-runner in Python and Pygame: state machine, jump physics and progressive difficulty.
+Graphic design, image manipulation, digital illustration, photography and visual
+experiments. Selected pieces: *REACHING*, *WHAT REMAINS*, *MOMENTS*, *flower*,
+*My love 2.0*, *9to5*, *RUN*.
 
----
-
-## Other Projects
-
-- **[Health Data Automation](https://github.com/ribasgiovanna/automacao-dados-saude)** - Cleaning and standardization of DATASUS data with pandas.
-- **[Netflix Data Pipeline](https://github.com/ribasgiovanna/netflix-dados)** - ETL study: consolidates spreadsheets, extracts the campaign from UTM links and outputs CSV/XLSX.
-- **[Curitibars](https://github.com/ribasgiovanna/Curitibars)** (team project) - Static HTML/CSS site: a guide to bars in Curitiba.
+See the full [Creative Collection](https://www.behance.net/ribestudio).
 
 ---
 
-## Community & Impact
+## Community &amp; Social Impact
 
-- **Coffee & Code** - Founder, responsible for structuring the university tech club.
-- **Diretoria da Mulher (PUCPR)** - Events Coordinator: organization of events, communication and social-impact initiatives.
-- **Teia do Bem** - Social media, supporting the project's communication and outreach.
+Initiatives around collaboration, volunteering, communication, events, social
+responsibility and collective building:
 
-I also contribute to volunteer initiatives and projects that create positive impact
-through creativity, communication and technology.
+- **Diretoria da Mulher (PUCPR)** &mdash; Events Coordinator
+- **Teia do Bem** &mdash; social media, communication and outreach
+- **Interact**, environmental actions, activities with children and other volunteer work
 
 ---
 
-<p align="center"><i>Turning data into clarity, ideas into interfaces, and technology into a human thing.</i></p>
+## Beyond the Screen
+
+Creative curiosity away from the computer, including cooking &mdash; breads, sweets,
+cookies and other experiments.
+
+---
+
+## More on GitHub
+
+- [Health Data Automation](https://github.com/ribasgiovanna/automacao-dados-saude) &mdash; cleaning and standardization of DATASUS data with pandas
+- [Netflix Data Pipeline](https://github.com/ribasgiovanna/netflix-dados) &mdash; ETL study: consolidates spreadsheets, extracts campaigns from UTM links, outputs CSV/XLSX
+- [Curitibars](https://github.com/ribasgiovanna/Curitibars) &mdash; static site, a guide to bars in Curitiba *(team)*
+- ...and other academic projects on the [repositories tab](https://github.com/ribasgiovanna?tab=repositories)
+
+---
+
+## Contact
+
+- **LinkedIn:** [linkedin.com/in/giovannaribasdosreis](https://www.linkedin.com/in/giovannaribasdosreis/)
+- **Behance:** [behance.net/ribestudio](https://www.behance.net/ribestudio)
