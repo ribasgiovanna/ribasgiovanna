@@ -8,7 +8,7 @@ dados a experiências interativas.
 
 - **Linguagens:** Python, JavaScript/TypeScript, SQL
 - **Dados:** pandas, ETL, SQL Server, PostgreSQL, MongoDB
-- **Web:** HTML, CSS
+- **Web:** HTML, CSS, Django
 - **Ferramentas:** Git/GitHub, Docker, Linux, Windows Server
 - **Design:** Figma, Procreate, Affinity, Blender
 
@@ -20,6 +20,15 @@ dados a experiências interativas.
   — limpeza e padronização de dados do DATASUS com pandas.
 - **[Pipeline de Dados Netflix](https://github.com/ribasgiovanna/netflix-dados)**
   — estudo de ETL: consolida planilhas, extrai campanha de UTM e gera CSV/XLSX.
+
+### 🤝 Colaborações em equipe
+
+- **[Pibble Express](https://github.com/ribasgiovanna/pibble_express)** — sistema Django
+  de gestão de entregas. Minha parte: módulo de Funcionários e integração com Entregas,
+  cadastro com CPF/CNPJ e dashboard administrativo.
+- **[Banco de Sangue DATASUS](https://github.com/ribasgiovanna/datasus)** — extração
+  automatizada (RPA) de dados de hemoterapia do DATASUS. Ideia do projeto e trabalho
+  nos módulos de extração e tratamento.
 
 ### 🌱 Comunidade e impacto
 
