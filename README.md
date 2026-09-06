@@ -1,0 +1,33 @@
+## Giovanna Ribas dos Reis
+
+Estudante de **Engenharia de Software** na PUCPR e estagiária de desenvolvimento.
+Gosto de trabalhar onde **produto, dados e design** se encontram — de pipelines de
+dados a experiências interativas.
+
+### 🧰 Tecnologias
+
+- **Linguagens:** Python, JavaScript/TypeScript, SQL
+- **Dados:** pandas, ETL, SQL Server, PostgreSQL, MongoDB
+- **Web:** HTML, CSS
+- **Ferramentas:** Git/GitHub, Docker, Linux, Windows Server
+- **Design:** Figma, Procreate, Affinity, Blender
+
+### 📌 Projetos em destaque
+
+- **[Corrida para a Faculdade](https://github.com/ribasgiovanna/jogo-atrasado-para-a-faculdade)**
+  — jogo 2D em Python + Pygame: máquina de estados, física de pulo e dificuldade progressiva.
+- **[Automação de Dados de Saúde](https://github.com/ribasgiovanna/automacao-dados-saude)**
+  — limpeza e padronização de dados do DATASUS com pandas.
+- **[Pipeline de Dados Netflix](https://github.com/ribasgiovanna/netflix-dados)**
+  — estudo de ETL: consolida planilhas, extrai campanha de UTM e gera CSV/XLSX.
+
+### 🌱 Comunidade e impacto
+
+- **Coffee & Code** — fundadora e responsável pela estruturação do clube universitário.
+- **Diretoria da Mulher da PUCPR** — Coordenadora de Eventos: organização de eventos,
+  comunicação e iniciativas de impacto social.
+
+### 💬 Contato
+
+Aberta a conversas sobre produto, dados e design.
+<!-- Adicione aqui seus links (LinkedIn, Behance) quando quiser torná-los públicos. -->
