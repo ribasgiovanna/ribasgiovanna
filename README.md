@@ -26,8 +26,10 @@ dados a experiências interativas.
 - **Coffee & Code** — fundadora e responsável pela estruturação do clube universitário.
 - **Diretoria da Mulher da PUCPR** — Coordenadora de Eventos: organização de eventos,
   comunicação e iniciativas de impacto social.
+- **Teia do Bem** — Social media, colaborando com a comunicação e a divulgação das ações do projeto.
+Também contribuo com outras causas, ações voluntárias e projetos que acredito poderem gerar impacto positivo por meio de criatividade, comunicação e tecnologia.
 
-### 💬 Contato
+### 💬 Onde me encontrar
 
-Aberta a conversas sobre produto, dados e design.
-<!-- Adicione aqui seus links (LinkedIn, Behance) quando quiser torná-los públicos. -->
+- [LinkedIn](https://www.linkedin.com/in/giovannaribasdosreis/)
+- [Behance — Ribe Studio](https://www.behance.net/ribestudio)
