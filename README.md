@@ -1,12 +1,13 @@
-# Giovanna Ribas dos Reis
+<h1 align="center">Hi there! I'm Giovanna Ribas dos Reis</h1>
 
-## Software Engineering Student | Software Development Intern
+<p align="center"><b>Software Engineering Student &nbsp;&middot;&nbsp; Software Development Intern</b></p>
 
-Software Engineering undergraduate at PUCPR and software development intern, working
-across software, data and design. Experience building ETL pipelines and data-cleaning
-routines, replacing manual and error-prone processes with automation, and developing
-web and interactive applications, supported by a background in visual design and
-digital identity.
+<p align="center">
+  Software Engineering undergraduate at PUCPR, working across software, data and design.<br>
+  I build ETL pipelines and data-cleaning routines, replace manual and error-prone<br>
+  processes with automation, and develop web and interactive applications &mdash;<br>
+  supported by a background in visual design and digital identity.
+</p>
 
 ---
 
@@ -22,7 +23,7 @@ digital identity.
 
 ## Technical Stack
 
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" title="Python"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript" title="TypeScript"/>&nbsp;&nbsp;
@@ -84,11 +85,4 @@ through creativity, communication and technology.
 
 ---
 
-## Contact
-
-- **LinkedIn:** [linkedin.com/in/giovannaribasdosreis](https://www.linkedin.com/in/giovannaribasdosreis/)
-- **Behance:** [behance.net/ribestudio](https://www.behance.net/ribestudio)
-
----
-
-*Focused on turning manual, error-prone processes into reliable software.*
+<p align="center"><i>Turning data into clarity, ideas into interfaces, and technology into a human thing.</i></p>
