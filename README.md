@@ -76,7 +76,7 @@
 
 ## Community & Impact
 
-- **Coffee & Code** - Founder, responsible for structuring the university club.
+- **Coffee & Code** - Founder, responsible for structuring the university tech club.
 - **Diretoria da Mulher (PUCPR)** - Events Coordinator: organization of events, communication and social-impact initiatives.
 - **Teia do Bem** - Social media, supporting the project's communication and outreach.
 
