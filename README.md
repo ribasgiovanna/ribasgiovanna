@@ -100,9 +100,9 @@ Discord bot that publishes Coffee &amp; Code events and removes each post when r
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/ribasgiovanna/datasus"><img src="assets/projects/datasus.webp" width="100%" alt="DATASUS Blood Bank"></a>
+<a href="https://github.com/ribasgiovanna/datasus"><img src="assets/projects/datasus.webp" width="100%" alt="Bloody Mary"></a>
 
-### [DATASUS Blood Bank](https://github.com/ribasgiovanna/datasus)
+### [Bloody Mary](https://github.com/ribasgiovanna/datasus)
 
 Automated RPA extraction of public hemotherapy data from DATASUS, with parallel runs, checkpoints and a dashboard.
 
