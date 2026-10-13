@@ -1,73 +1,151 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Giovanna Ribas dos Reis, Software Developer, Data and Automation, Design" width="100%">
+</picture>
 
-# Giovanna Ribas dos Reis
+<p align="center"><b>Software Engineering Student &nbsp;&middot;&nbsp; Software Developer</b></p>
 
-**Full Stack Developer &nbsp;·&nbsp; Software Engineering Student at PUCPR &nbsp;·&nbsp; Founder of the Coffee &amp; Code Tech Club**
+<p align="center">
+  Software Engineering undergraduate at PUCPR, working across software, data and design.<br>
+  I build ETL pipelines and data-cleaning routines, replace manual and error-prone<br>
+  processes with automation, and develop web and interactive applications &mdash;<br>
+  supported by a background in visual design and digital identity.
+</p>
 
-English &nbsp;·&nbsp; [Português](README.pt-br.md)
+---
 
-[Portfolio](https://ribasgiovanna.github.io) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/giovannaribasdosreis) &nbsp;·&nbsp; [Behance](https://www.behance.net/ribestudio)
+## Focus Areas
 
-</div>
+- **Data & ETL** - Cleaning, standardization and consolidation of datasets; extraction and transformation pipelines with Python and pandas
+- **Automation** - Turning repetitive manual work into reliable scripts and RPA
+- **Web Development** - Django and FastAPI back ends, Next.js front ends, authentication, access levels and REST APIs
+- **Interactive Applications** - Game logic and state-driven programs
+- **Design** - Visual identity, illustration and interface design supporting product work
 
-## About me
+---
 
-I'm a software developer working across the back end, the front end and process automation. I'm a development intern at **Condo Consult** and a full stack developer at **Azevedo e Surkamp**.
+## Technical Stack
 
-Alongside engineering, I have been working on graphic design and visual identity since 2021, which helps me bridge design and development.
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" title="Python"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="TypeScript" title="TypeScript"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="34" alt="Django" title="Django"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="34" alt="FastAPI" title="FastAPI"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="34" alt="Next.js" title="Next.js"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="HTML5" title="HTML5"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="CSS3" title="CSS3"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="34" alt="pandas" title="pandas"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="34" alt="Selenium" title="Selenium"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="34" alt="SQL Server" title="SQL Server"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34" alt="MongoDB" title="MongoDB"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker" title="Docker"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="Git" title="Git"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34" alt="Linux" title="Linux"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="34" alt="Figma" title="Figma"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="34" alt="Canva" title="Canva"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="34" alt="Photoshop" title="Photoshop"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="34" alt="Blender" title="Blender"/>
+</p>
 
-## Featured projects
+**Languages**
+- Python | JavaScript / TypeScript | SQL
 
-### [AdversIA](https://github.com/ribasgiovanna/AdversIA) &nbsp;·&nbsp; [live demo](https://adversia.vercel.app)
+**Data**
+- pandas | ETL | Selenium (RPA) | Streamlit | SQL Server | PostgreSQL | MongoDB | SQLite
 
-AI assistant for Family Law attorneys that reviews a case the way opposing counsel would, flagging contradictions, evidence gaps and likely hearing questions. Built at the OAB/PR 2026 Citizenship Hackathon and shipped after it.
+**Web**
+- Django | Django REST Framework | FastAPI | Next.js | HTML | CSS
 
-- **Stack:** Python · serverless functions on Vercel · 7-stage LLM prompt pipeline
-- **My part:** back end and front end
+**Tools & Infrastructure**
+- Git & GitHub | Docker | Linux | Windows Server | Vercel | Oracle Cloud
+
+**Other**
+- Pygame | discord.py | LLM integration
+
+**Design**
+- Figma | Canva | Photoshop | Lightroom | Procreate | Affinity | Blender
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ribasgiovanna/AdversIA"><img src="assets/projects/adversia.webp" width="100%" alt="AdversIA"></a>
+
+### [AdversIA](https://github.com/ribasgiovanna/AdversIA) · [live demo](https://adversia.vercel.app)
+
+AI assistant for Family Law attorneys that reviews a case through the opposing counsel's eyes. Built at the OAB/PR 2026 Hackathon.
+
+*Team project · my part: back end and front end*
+
+`Python` `LLM` `Vercel` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/ribasgiovanna/cobot"><img src="assets/projects/cobot.webp" width="100%" alt="Cobot"></a>
 
 ### [Cobot](https://github.com/ribasgiovanna/cobot)
 
-Discord bot that automates event announcements for Coffee & Code: it publishes each event to the forum and removes the post once registration closes.
+Discord bot that publishes Coffee &amp; Code events and removes each post when registration closes, running 24/7 on Oracle Cloud.
 
-- **Stack:** Python · SQLite · Linux (systemd) · Oracle Cloud
-- **Status:** in production, running 24/7 at zero cost
+*Individual project*
 
-### [DATASUS Hemotherapy PR](https://github.com/ribasgiovanna/datasus)
+`Python` `SQLite` `Linux` `Oracle Cloud`
 
-Automated extraction of public hemotherapy data from DATASUS, with data cleaning and a comparison dashboard. Final team project of Harve's Python course.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ribasgiovanna/datasus"><img src="assets/projects/datasus.webp" width="100%" alt="DATASUS Blood Bank"></a>
 
-- **Stack:** Python · Selenium (RPA) · pandas · Streamlit
-- **My part:** project idea, extraction and data cleaning modules
+### [DATASUS Blood Bank](https://github.com/ribasgiovanna/datasus)
+
+Automated RPA extraction of public hemotherapy data from DATASUS, with parallel runs, checkpoints and a dashboard.
+
+*Team project · my part: idea, extraction and cleaning*
+
+`Python` `Selenium` `pandas` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/ribasgiovanna/pibble_express"><img src="assets/projects/pibble-express.webp" width="100%" alt="Pibble Express"></a>
 
 ### [Pibble Express](https://github.com/ribasgiovanna/pibble_express)
 
-Django web app for delivery management, with authentication, role-based access and a REST API. Team project at PUCPR.
+Django delivery-management web app with authentication, role-based access, full CRUD and a REST API for every module.
 
-- **Stack:** Python · Django · Django REST Framework · SQLite
-- **My part:** proposed Django, built the admin dashboard and the employees module
+*Team project · my part: employees module, admin dashboard*
 
-## More projects
+`Python` `Django` `DRF` `SQLite`
 
-- **[Portfolio](https://github.com/ribasgiovanna/ribasgiovanna.github.io)** · personal website in plain HTML, CSS and JavaScript, bilingual and accessible
-- **[Corrida para a Faculdade](https://github.com/ribasgiovanna/jogo-atrasado-para-a-faculdade)** · 2D game in Python and Pygame
-- **[Netflix Data Pipeline](https://github.com/ribasgiovanna/netflix-dados)** · ETL study with pandas and UTM link parsing
-- **[Health Data Automation](https://github.com/ribasgiovanna/automacao-dados-saude)** · cleaning and standardizing DATASUS data
-- **[Doggo](https://github.com/liz-whs/Doggo)** · ESP32 pet feeder running its own web server (in progress, team project)
-- **Early front-end work** · [Curitibars](https://ribasgiovanna.github.io/Curitibars/), [Receitas.Co](https://ribasgiovanna.github.io/receitas/), [Jennifer Amaral](https://ribasgiovanna.github.io/Jennifer-Amaral-/), [Pibblesite](https://ribasgiovanna.github.io/pibblesite/)
+</td>
+</tr>
+</table>
 
-## Tech stack
+---
 
-| | |
-| :-- | :-- |
-| **Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" title="Python"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" title="TypeScript"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" title="JavaScript"/> |
-| **Back end** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" alt="FastAPI" title="FastAPI"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="32" alt="Django" title="Django"/> |
-| **Front end** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="Next.js" title="Next.js"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" title="HTML5"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" title="CSS3"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32" alt="Tailwind CSS" title="Tailwind CSS"/> |
-| **Data & automation** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32" alt="pandas" title="pandas"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="32" alt="SQL Server" title="SQL Server"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="MongoDB" title="MongoDB"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="32" alt="SQLite" title="SQLite"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="32" alt="Selenium" title="Selenium"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="32" alt="Streamlit" title="Streamlit"/> |
-| **Infra & tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" title="Docker"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="Linux" title="Linux"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" title="Git"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub" title="GitHub"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="32" alt="Oracle Cloud" title="Oracle Cloud"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="32" alt="Vercel" title="Vercel"/> |
-| **Design** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="Figma" title="Figma"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="32" alt="Blender" title="Blender"/> |
+## Other Projects
 
-## Community
+- **[Corrida para a Faculdade](https://github.com/ribasgiovanna/jogo-atrasado-para-a-faculdade)** - 2D endless-runner in Python and Pygame: state machine, jump physics and progressive difficulty.
+- **[Health Data Automation](https://github.com/ribasgiovanna/automacao-dados-saude)** - Cleaning and standardization of DATASUS data with pandas.
+- **[Netflix Data Pipeline](https://github.com/ribasgiovanna/netflix-dados)** - ETL study: consolidates spreadsheets, extracts the campaign from UTM links and outputs CSV/XLSX.
+- **[Curitibars](https://github.com/ribasgiovanna/Curitibars)** (team project) - Static HTML/CSS site: a guide to bars in Curitiba.
 
-- **[Coffee & Code](https://github.com/coffeecodepucpr)** · founder and executive director of a tech club at PUCPR
-- **Diretoria da Mulher (DCE PUCPR)** · events coordinator, focused on women's participation in academia
-- **Teia do Bem** · volunteer social media strategist
+---
+
+## Community & Impact
+
+- **Coffee & Code** - Founder and Executive Director, responsible for structuring the university tech club.
+- **Diretoria da Mulher (PUCPR)** - Events Coordinator: organization of events, communication and social-impact initiatives.
+- **Teia do Bem** - Social media, supporting the project's communication and outreach.
+
+I also contribute to volunteer initiatives and projects that create positive impact
+through creativity, communication and technology.
+
+---
+
+<p align="center"><i>Turning data into clarity, ideas into interfaces, and technology into a human thing.</i></p>
