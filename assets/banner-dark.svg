@@ -8,19 +8,19 @@
     <path id="ring" d="M 1110 160 m -66 0 a 66 66 0 1 1 132 0 a 66 66 0 1 1 -132 0"/>
   </defs>
 
-  <rect x="1" y="1" width="1278" height="318" rx="28" fill="#1c1811" stroke="#322a20" stroke-width="2"/>
+  <rect x="1" y="1" width="1278" height="318" rx="28" fill="#222326" stroke="#323338" stroke-width="2"/>
 
-  <text x="80" y="110" class="mono" font-size="15" letter-spacing="3" fill="#e08a6b">SOFTWARE DEVELOPER · DATA &amp; AUTOMATION · DESIGN</text>
-  <text x="76" y="196" font-family="Fraunces, Georgia, serif" font-weight="600" font-size="74" letter-spacing="0.2" fill="#efe7db">Giovanna Ribas dos Reis</text>
-  <text x="80" y="252" class="mono" font-size="14" letter-spacing="4" fill="#8b7f6f" opacity="0.7">P&lt;BRARIBAS&lt;DOS&lt;REIS&lt;&lt;GIOVANNA&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</text>
+  <text x="80" y="110" class="mono" font-size="15" letter-spacing="3" fill="#C68163">SOFTWARE DEVELOPER · DATA &amp; AUTOMATION · DESIGN</text>
+  <text x="76" y="196" font-family="Fraunces, Georgia, serif" font-weight="600" font-size="74" letter-spacing="0.2" fill="#E8E4DF">Giovanna Ribas dos Reis</text>
+  <text x="80" y="252" class="mono" font-size="14" letter-spacing="4" fill="#969398" opacity="0.7">P&lt;BRARIBAS&lt;DOS&lt;REIS&lt;&lt;GIOVANNA&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</text>
 
-  <g transform="rotate(-10 1110 160)" fill="none" stroke="#e08a6b">
+  <g transform="rotate(-10 1110 160)" fill="none" stroke="#C68163">
     <circle cx="1110" cy="160" r="92" stroke-width="2.5"/>
     <circle cx="1110" cy="160" r="80" stroke-width="1"/>
-    <text class="mono" font-size="12" fill="#e08a6b" stroke="none">
+    <text class="mono" font-size="12" fill="#C68163" stroke="none">
       <textPath href="#ring" textLength="412" lengthAdjust="spacing">ENGENHARIA DE SOFTWARE · PUCPR · CURITIBA · </textPath>
     </text>
     <circle cx="1110" cy="160" r="50" stroke-width="1"/>
-    <text x="1110" y="174" text-anchor="middle" font-family="Fraunces, Georgia, serif" font-weight="600" font-size="40" fill="#e08a6b" stroke="none">GR</text>
+    <text x="1110" y="174" text-anchor="middle" font-family="Fraunces, Georgia, serif" font-weight="600" font-size="40" fill="#C68163" stroke="none">GR</text>
   </g>
 </svg>
