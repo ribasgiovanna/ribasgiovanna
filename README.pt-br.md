@@ -1,73 +1,150 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Giovanna Ribas dos Reis, desenvolvedora de software, dados e automação, design" width="100%">
+</picture>
 
-# Giovanna Ribas dos Reis
+<p align="center"><b>Estudante de Engenharia de Software &nbsp;&middot;&nbsp; Desenvolvedora de Software</b></p>
 
-**Desenvolvedora Full Stack &nbsp;·&nbsp; Estudante de Engenharia de Software na PUCPR &nbsp;·&nbsp; Fundadora do clube de tecnologia Coffee &amp; Code**
+<p align="center"><sub><a href="https://github.com/ribasgiovanna">English</a> &nbsp;&middot;&nbsp; Português</sub></p>
 
-[English](README.md) &nbsp;·&nbsp; Português
+<p align="center">
+  Estudante de Engenharia de Software na PUCPR, atuando entre software, dados e design.<br>
+  Construo pipelines de ETL e rotinas de tratamento de dados, substituo processos manuais<br>
+  e sujeitos a erro por automação e desenvolvo aplicações web e interativas &mdash;<br>
+  com uma base em design visual e identidade digital.
+</p>
 
-[Portfólio](https://ribasgiovanna.github.io) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/giovannaribasdosreis) &nbsp;·&nbsp; [Behance](https://www.behance.net/ribestudio)
+---
 
-</div>
+## Áreas de atuação
 
-## Sobre mim
+- **Desenvolvimento de software** - Aplicações web full stack com autenticação, controle de acesso por perfil, persistência de dados e integração de APIs
+- **Dados e automação** - Pipelines de ETL, tratamento de dados e RPA que trocam trabalho manual e sujeito a erro por processos confiáveis
+- **Aplicações interativas** - Lógica de jogos e programas orientados a estados
+- **Design** - Identidade visual e design de interfaces, aplicados em todas as áreas acima
 
-Sou desenvolvedora de software, com atuação no back-end, no front-end e na automação de processos. Sou estagiária de desenvolvimento na **Condo Consult** e desenvolvedora full stack na **Azevedo e Surkamp**.
-
-Paralelamente à engenharia, desenvolvo projetos de design gráfico e identidade visual desde 2021, o que me ajuda a unir design e desenvolvimento.
-
-## Projetos em destaque
-
-### [AdversIA](https://github.com/ribasgiovanna/AdversIA) &nbsp;·&nbsp; [demonstração](https://adversia.vercel.app)
-
-Assistente com IA para advogados de Direito de Família, que analisa o caso pela perspectiva do advogado da parte contrária e aponta contradições, lacunas de prova e possíveis perguntas da audiência. Criado no Hackathon da Cidadania OAB/PR 2026 e publicado depois do evento.
-
-- **Stack:** Python · funções serverless na Vercel · pipeline de 7 etapas de prompt
-- **Minha parte:** back-end e front-end
-
-### [Cobot](https://github.com/ribasgiovanna/cobot)
-
-Bot de Discord que automatiza a divulgação de eventos do Coffee & Code: publica cada evento no fórum e remove o post quando a inscrição encerra.
-
-- **Stack:** Python · SQLite · Linux (systemd) · Oracle Cloud
-- **Situação:** em produção, rodando 24 horas por dia com custo zero
-
-### [DATASUS Hemoterapia PR](https://github.com/ribasgiovanna/datasus)
-
-Extração automatizada de dados públicos de hemoterapia do DATASUS, com tratamento dos dados e dashboard comparativo. Projeto final em equipe do curso de Python da Harve.
-
-- **Stack:** Python · Selenium (RPA) · pandas · Streamlit
-- **Minha parte:** ideia do projeto e módulos de extração e tratamento
-
-### [Pibble Express](https://github.com/ribasgiovanna/pibble_express)
-
-Sistema web em Django para gestão de entregas, com autenticação, níveis de acesso e API REST. Projeto em equipe na PUCPR.
-
-- **Stack:** Python · Django · Django REST Framework · SQLite
-- **Minha parte:** proposta do Django, painel administrativo e módulo de funcionários
-
-## Outros projetos
-
-- **[Portfólio](https://github.com/ribasgiovanna/ribasgiovanna.github.io)** · site pessoal em HTML, CSS e JavaScript puros, bilíngue e acessível
-- **[Corrida para a Faculdade](https://github.com/ribasgiovanna/jogo-atrasado-para-a-faculdade)** · jogo 2D em Python e Pygame
-- **[Netflix Dados](https://github.com/ribasgiovanna/netflix-dados)** · estudo de ETL com pandas e leitura de links UTM
-- **[Automação Dados Saúde](https://github.com/ribasgiovanna/automacao-dados-saude)** · limpeza e padronização de dados do DATASUS
-- **[Doggo](https://github.com/liz-whs/Doggo)** · alimentador para pets com ESP32 rodando como servidor web (em andamento, em equipe)
-- **Primeiros projetos de front-end** · [Curitibars](https://ribasgiovanna.github.io/Curitibars/), [Receitas.Co](https://ribasgiovanna.github.io/receitas/), [Jennifer Amaral](https://ribasgiovanna.github.io/Jennifer-Amaral-/), [Pibblesite](https://ribasgiovanna.github.io/pibblesite/)
+---
 
 ## Tecnologias
 
-| | |
-| :-- | :-- |
-| **Linguagens** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" title="Python"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" title="TypeScript"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" title="JavaScript"/> |
-| **Back-end** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" alt="FastAPI" title="FastAPI"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="32" alt="Django" title="Django"/> |
-| **Front-end** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="Next.js" title="Next.js"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" title="HTML5"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" title="CSS3"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32" alt="Tailwind CSS" title="Tailwind CSS"/> |
-| **Dados e automação** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32" alt="pandas" title="pandas"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="32" alt="SQL Server" title="SQL Server"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="MongoDB" title="MongoDB"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="32" alt="SQLite" title="SQLite"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="32" alt="Selenium" title="Selenium"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="32" alt="Streamlit" title="Streamlit"/> |
-| **Infra e ferramentas** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" title="Docker"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="Linux" title="Linux"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" title="Git"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub" title="GitHub"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="32" alt="Oracle Cloud" title="Oracle Cloud"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="32" alt="Vercel" title="Vercel"/> |
-| **Design** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="Figma" title="Figma"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="32" alt="Blender" title="Blender"/> |
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" title="Python"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript" title="TypeScript"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="38" alt="FastAPI" title="FastAPI"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="38" alt="Django" title="Django"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="38" alt="Next.js" title="Next.js"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="38" alt="pandas" title="pandas"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker" title="Docker"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" title="Git"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="38" alt="Figma" title="Figma"/>&nbsp;&nbsp;
+</p>
 
-## Comunidade
+**Principais** - o que uso no dia a dia, no trabalho e nos meus principais projetos
+- Python | TypeScript / JavaScript | SQL
+- FastAPI | Django | Django REST Framework | Next.js | HTML | CSS
+- pandas | SQL Server | PostgreSQL | MongoDB
+- Git & GitHub | Docker
 
-- **[Coffee & Code](https://github.com/coffeecodepucpr)** · fundadora e diretora executiva do clube de tecnologia da PUCPR
-- **Diretoria da Mulher (DCE PUCPR)** · coordenadora de eventos, com foco na participação das mulheres no ambiente acadêmico
-- **Teia do Bem** · voluntária em estratégia de mídias sociais
+**Aplicadas em projetos** - usadas para construir e publicar projetos específicos
+- Selenium (RPA) | Streamlit | SQLite | discord.py | Pygame | APIs de LLM
+- Linux (systemd) | Oracle Cloud | Vercel | Windows Server
+
+**Explorando no momento**
+- Tailwind CSS
+
+**Design e ferramentas criativas**
+- Figma | Canva | Photoshop | Lightroom | Procreate | Affinity | Blender
+
+---
+
+## Projetos em destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ribasgiovanna/AdversIA"><img src="assets/projects/adversia.webp" width="100%" alt="AdversIA"></a>
+
+### [AdversIA](https://github.com/ribasgiovanna/AdversIA) · [demonstração](https://adversia.vercel.app)
+
+Assistente com IA para advogados de Direito de Família, que analisa o caso pelos olhos da parte contrária. Criado no Hackathon OAB/PR 2026.
+
+**Resultado:** 32 casos de demonstração e testes automatizados
+
+*Projeto em equipe · minha parte: back-end e front-end*
+
+`Python` `LLM` `Vercel` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/ribasgiovanna/cobot"><img src="assets/projects/cobot.webp" width="100%" alt="Cobot"></a>
+
+### [Cobot](https://github.com/ribasgiovanna/cobot)
+
+Bot de Discord que publica os eventos do Coffee &amp; Code e remove cada post quando a inscrição encerra, rodando 24/7 na Oracle Cloud.
+
+**Resultado:** em produção, 5 etapas manuais viraram 1 comando
+
+*Projeto individual*
+
+`Python` `SQLite` `Linux` `Oracle Cloud`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ribasgiovanna/datasus"><img src="assets/projects/datasus.webp" width="100%" alt="Bloody Mary"></a>
+
+### [Bloody Mary](https://github.com/ribasgiovanna/datasus)
+
+Extração automatizada (RPA) de dados públicos de hemoterapia do DATASUS, com execução paralela, checkpoints e dashboard.
+
+**Resultado:** execuções que retomam do checkpoint após falhas
+
+*Projeto em equipe · minha parte: ideia, extração e tratamento*
+
+`Python` `Selenium` `pandas` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/ribasgiovanna/pibble_express"><img src="assets/projects/pibble-express.webp" width="100%" alt="Pibble Express"></a>
+
+### [Pibble Express](https://github.com/ribasgiovanna/pibble_express)
+
+Sistema web em Django para gestão de entregas, com autenticação, acesso por perfil, CRUD completo e API REST em todos os módulos.
+
+**Resultado:** controle de acesso coberto por 21 testes
+
+*Projeto em equipe · minha parte: funcionários e dashboard*
+
+`Python` `Django` `DRF` `SQLite`
+
+</td>
+</tr>
+</table>
+
+
+---
+
+## Outros projetos
+
+- **[Corrida para a Faculdade](https://github.com/ribasgiovanna/jogo-atrasado-para-a-faculdade)** - jogo 2D em Python e Pygame: máquina de estados, física de pulo e dificuldade progressiva.
+- **[Automação Dados Saúde](https://github.com/ribasgiovanna/automacao-dados-saude)** - limpeza e padronização de dados do DATASUS com pandas.
+- **[Netflix Dados](https://github.com/ribasgiovanna/netflix-dados)** - estudo de ETL: consolida planilhas, extrai a campanha dos links UTM e gera CSV/XLSX.
+- **[Curitibars](https://github.com/ribasgiovanna/Curitibars)** (projeto em equipe) - site estático em HTML/CSS: um guia de bares de Curitiba.
+
+---
+
+## Comunidade e impacto
+
+- **Coffee & Code** - Fundadora e diretora executiva, responsável por estruturar o clube universitário de tecnologia.
+- **Diretoria da Mulher (PUCPR)** - Coordenadora de eventos: organização de eventos, comunicação e iniciativas de impacto social.
+- **Teia do Bem** - Mídias sociais, apoiando a comunicação e a divulgação do projeto.
+
+Também contribuo com iniciativas voluntárias e projetos que geram impacto positivo
+por meio da criatividade, da comunicação e da tecnologia.
+
+---
+
+<p align="center"><i>Transformando dados em clareza, ideias em interfaces e tecnologia em algo humano.</i></p>

@@ -5,6 +5,8 @@
 
 <p align="center"><b>Software Engineering Student &nbsp;&middot;&nbsp; Software Developer</b></p>
 
+<p align="center"><sub>English &nbsp;&middot;&nbsp; <a href="https://github.com/ribasgiovanna/ribasgiovanna/blob/main/README.pt-br.md">Português</a></sub></p>
+
 <p align="center">
   Software Engineering undergraduate at PUCPR, working across software, data and design.<br>
   I build ETL pipelines and data-cleaning routines, replace manual and error-prone<br>
